@@ -1,2 +1,2 @@
 # dbtt
-A community transportation schedule website for family and frieds
+A community transportation schedule website for family and friends
